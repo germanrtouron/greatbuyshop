@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greatbuyshop/static/css/main.aeeec8dd.chunk.css",
+    "main.js": "/greatbuyshop/static/js/main.69466d29.chunk.js",
+    "main.js.map": "/greatbuyshop/static/js/main.69466d29.chunk.js.map",
+    "runtime-main.js": "/greatbuyshop/static/js/runtime-main.3f0bf2ce.js",
+    "runtime-main.js.map": "/greatbuyshop/static/js/runtime-main.3f0bf2ce.js.map",
+    "static/js/2.805ddc4b.chunk.js": "/greatbuyshop/static/js/2.805ddc4b.chunk.js",
+    "static/js/2.805ddc4b.chunk.js.map": "/greatbuyshop/static/js/2.805ddc4b.chunk.js.map",
+    "static/js/3.9f1d16d7.chunk.js": "/greatbuyshop/static/js/3.9f1d16d7.chunk.js",
+    "static/js/3.9f1d16d7.chunk.js.map": "/greatbuyshop/static/js/3.9f1d16d7.chunk.js.map",
+    "index.html": "/greatbuyshop/index.html",
+    "static/css/main.aeeec8dd.chunk.css.map": "/greatbuyshop/static/css/main.aeeec8dd.chunk.css.map",
+    "static/js/2.805ddc4b.chunk.js.LICENSE.txt": "/greatbuyshop/static/js/2.805ddc4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0bf2ce.js",
+    "static/js/2.805ddc4b.chunk.js",
+    "static/css/main.aeeec8dd.chunk.css",
+    "static/js/main.69466d29.chunk.js"
+  ]
+}
