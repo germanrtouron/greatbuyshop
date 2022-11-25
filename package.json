@@ -28,7 +28,7 @@
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://germanrtouron.github.io/greatbuyshop",
+  "homepage": "https://germanrtouron.github.io/greatbuyshop/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
